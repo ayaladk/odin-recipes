@@ -1,0 +1,31 @@
+body {
+	background-color: #ffca61;
+}
+
+li {
+	margin: 20px 5px;
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	padding: 0;
+}
+
+.item {
+	display: block;
+	border: 2px solid black;
+	width: 200px;
+	padding: 15px;
+	margin: 10px;
+	background-color: lightyellow;
+}
+
+.title,
+.hola {
+	background-color: #fab52c;
+	text-align: center;
+	font-family: ;
+}
+
+
